@@ -8,10 +8,10 @@ This project is a basic online bookstore system designed to demonstrate software
 
 ## Team Members
 
-- **Zia Kadijah**
-- **Nidhi Yedida** — [@nidhiyedida](https://github.com/nidhiyedida)
-- **Vidya Sri Ganesh** — [@vidyasriganesh](https://github.com/vidyasriganesh)
-- **Hithesh Nanjunda Swamy** — [@hithesh-n-03](https://github.com/hithesh-n-03)
+- **Zia Kadijah** - [@zia0307](https://github.com/zia0307)
+- **Nidhi Yedida** - [@nidhiyedida](https://github.com/nidhiyedida)
+- **Vidya Sri Ganesh** - [@vidyasriganesh](https://github.com/vidyasriganesh)
+- **Hithesh Nanjunda Swamy** - [@hithesh-n-03](https://github.com/hithesh-n-03)
 
 ## Project Documents
 
